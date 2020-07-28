@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there 🙏
 
 <!--
 **Muskan02/Muskan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +34,5 @@ I am currently pursuing my B.Tech in Computer Science and Engineering and explor
   <img src="https://profile-counter.glitch.me/Muskan02/count.svg" />
 </p>
 
-<p align="center">Thanks for visiting.😄</p>
+<p align="center">Thanks for visiting.🙂</p>
 
