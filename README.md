@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/Muskan02/Muskan02/master/hw.jpeg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Muskan02/Muskan02/master/dp.jpeg" alt="Hello world">
 
 ## About me ✨
 
