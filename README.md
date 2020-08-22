@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="https://raw.githubusercontent.com/Muskan02/Muskan02/master/dp.jpg" alt="Hello world" width="300px" height="300px"></p>
 
-<img src="https://raw.githubusercontent.com/Muskan02/Muskan02/master/dp.jpeg" alt="Hello world">
 
 ## About me ✨
 
