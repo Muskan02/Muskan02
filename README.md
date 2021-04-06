@@ -15,6 +15,13 @@ I am currently pursuing my B.Tech in Computer Science and Engineering and explor
 - [My Portfolio](https://portfoliomuskan02.herokuapp.com/)
 - You can contact me through [LinkedIn](https://www.linkedin.com/in/muskan-maheshwari-1659aa190)
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskan02&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="muskan02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muskan02&show_icons=true&theme=cobalt&locale=en" alt="muskan02" /></p>
+</details>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Muskan02/count.svg" />
