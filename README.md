@@ -12,7 +12,7 @@ I am currently pursuing my B.Tech in Computer Science and Engineering and explor
 
 ## Get in touch :coffee:
 
-- [My Portfolio](https://portfoliomuskan02.herokuapp.com/)
+- [My Portfolio](https://aboutmuskan.xyz)
 - You can contact me through [LinkedIn](https://www.linkedin.com/in/muskan-maheshwari-1659aa190)
 
 <details>
