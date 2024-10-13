@@ -5,7 +5,7 @@
 
 ## About me ✨
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muskan-maheshwari-1659aa190)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muskanmaheshwari02/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MuskanMaheshw16)
 
 My name is <strong>Muskan Maheshwari</strong>. I am a passionate learner with an innovative mind. I am curious about new technologies and always try to learn them and make something productive. I am also a competitive coder. I like to share my knowledge with others. 
