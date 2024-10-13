@@ -10,7 +10,7 @@
 
 My name is <strong>Muskan Maheshwari</strong>. I am a passionate learner with an innovative mind. I am curious about new technologies and always try to learn them and make something productive. I am also a competitive coder. I like to share my knowledge with others. 
 
-I am currently pursuing my B.Tech in Computer Science and Engineering and exploring new domains of life.
+I am currently working as Software Engineer at Walmart.
 
 Want to know more about me? [Checkout my Portfolio!](https://aboutmuskan-5d3e4.web.app/)
 
